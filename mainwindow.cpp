@@ -1264,6 +1264,7 @@ void MainWindow::updateFontSize()
     ui->watchPushButton->setFont(font);
     ui->downloadPushButton->setFont(font);
     ui->screenshotsPushButton->setFont(font);
+    ui->addToSeasonPassPushButton->setFont(font);
     m_formatComboBox->setFont(font);
     m_searchComboBox->setFont(font);
 
